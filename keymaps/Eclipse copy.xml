@@ -35,6 +35,10 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
