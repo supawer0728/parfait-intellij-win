@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
 </keymap>
