@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CopyPaths" />
+  <action id="Diff.SelectedChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorMatchBrace" />
   <action id="EditorSelectWord">
@@ -22,20 +23,35 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="ReplaceInPath" />
   <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
