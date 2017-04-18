@@ -38,6 +38,9 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
+  <action id="Macro.save actions">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="ModuleSettings">
@@ -52,6 +55,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="SaveAll" />
   <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
